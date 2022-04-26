@@ -1,0 +1,12 @@
+**node_modules
+.*
+logs
+Dockerfile
+db
+doc
+node.code-workspace
+ormconfig.ts
+test
+README.md
+dist
+docker-compose.yml
