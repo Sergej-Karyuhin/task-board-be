@@ -27,6 +27,9 @@ async function bootstrap() {
   // Initiliaze nestjs app
   const app = await _initApp(USE_FASTIFY, LOG_CONSOLE);
 
+  // Allow requests from FE-local-app
+  app.enableCors({ origin: 'http://localhost:3000' });
+
   // Global connect Logger
   const logger = app.get<LogService>(LogService);
   app.useLogger(logger);
