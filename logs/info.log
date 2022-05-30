@@ -1,0 +1,70 @@
+{"level":30,"time":1651073593627,"pid":195,"hostname":"af039fd5b831","msg":"AppController {/}:"}
+{"level":30,"time":1651073593632,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/, GET} route"}
+{"level":30,"time":1651073593633,"pid":195,"hostname":"af039fd5b831","msg":"UsersController {/users}:"}
+{"level":30,"time":1651073593634,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/users, GET} route"}
+{"level":30,"time":1651073593636,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/users/:id, GET} route"}
+{"level":30,"time":1651073593638,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/users, POST} route"}
+{"level":30,"time":1651073593639,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/users/:id, DELETE} route"}
+{"level":30,"time":1651073593644,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/users/:id, PUT} route"}
+{"level":30,"time":1651073593644,"pid":195,"hostname":"af039fd5b831","msg":"AuthController {/}:"}
+{"level":30,"time":1651073593645,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/login, POST} route"}
+{"level":30,"time":1651073593646,"pid":195,"hostname":"af039fd5b831","msg":"BoardsController {/boards}:"}
+{"level":30,"time":1651073593647,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/boards, GET} route"}
+{"level":30,"time":1651073593649,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/boards/:id, GET} route"}
+{"level":30,"time":1651073593650,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/boards, POST} route"}
+{"level":30,"time":1651073593651,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/boards/:id, DELETE} route"}
+{"level":30,"time":1651073593653,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/boards/:id, PUT} route"}
+{"level":30,"time":1651073593653,"pid":195,"hostname":"af039fd5b831","msg":"ColumnsController {/columns}:"}
+{"level":30,"time":1651073593654,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/columns, GET} route"}
+{"level":30,"time":1651073593655,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/columns/:columnId, GET} route"}
+{"level":30,"time":1651073593656,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/columns, POST} route"}
+{"level":30,"time":1651073593657,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/columns/:columnId, DELETE} route"}
+{"level":30,"time":1651073593658,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/columns/:columnId, PUT} route"}
+{"level":30,"time":1651073593658,"pid":195,"hostname":"af039fd5b831","msg":"TasksController {/boards/:boardId/tasks}:"}
+{"level":30,"time":1651073593659,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/boards/:boardId/tasks, GET} route"}
+{"level":30,"time":1651073593660,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/boards/:boardId/tasks/:taskId, GET} route"}
+{"level":30,"time":1651073593661,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/boards/:boardId/tasks, POST} route"}
+{"level":30,"time":1651073593663,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/boards/:boardId/tasks/:taskId, DELETE} route"}
+{"level":30,"time":1651073593664,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/boards/:boardId/tasks/:taskId, PUT} route"}
+{"level":30,"time":1651073593664,"pid":195,"hostname":"af039fd5b831","msg":"FileController {/}:"}
+{"level":30,"time":1651073593666,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/file, POST} route"}
+{"level":30,"time":1651073593667,"pid":195,"hostname":"af039fd5b831","msg":"Mapped {/file/:filename, GET} route"}
+{"level":30,"time":1651073593674,"pid":195,"hostname":"af039fd5b831","msg":"Nest application successfully started"}
+{"level":30,"time":1651073601123,"pid":195,"hostname":"af039fd5b831","method":"GET","url":"/users","query":{},"body":null,"statusCode":200,"responseTime":"11ms"}
+{"level":30,"time":1651073601880,"pid":195,"hostname":"af039fd5b831","method":"GET","url":"/users","query":{},"body":null,"statusCode":200,"responseTime":"2ms"}
+{"level":30,"time":1651073602611,"pid":195,"hostname":"af039fd5b831","method":"GET","url":"/users","query":{},"body":null,"statusCode":200,"responseTime":"3ms"}
+{"level":30,"time":1651073603185,"pid":195,"hostname":"af039fd5b831","method":"GET","url":"/users","query":{},"body":null,"statusCode":200,"responseTime":"2ms"}
+{"level":30,"time":1651073603841,"pid":195,"hostname":"af039fd5b831","method":"GET","url":"/users","query":{},"body":null,"statusCode":200,"responseTime":"2ms"}
+{"level":30,"time":1651073604384,"pid":195,"hostname":"af039fd5b831","method":"GET","url":"/users","query":{},"body":null,"statusCode":200,"responseTime":"3ms"}
+{"level":30,"time":1651073640742,"pid":208,"hostname":"af039fd5b831","msg":"AppController {/}:"}
+{"level":30,"time":1651073640749,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/, GET} route"}
+{"level":30,"time":1651073640749,"pid":208,"hostname":"af039fd5b831","msg":"UsersController {/users}:"}
+{"level":30,"time":1651073640750,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/users, GET} route"}
+{"level":30,"time":1651073640752,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/users/:id, GET} route"}
+{"level":30,"time":1651073640753,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/users, POST} route"}
+{"level":30,"time":1651073640754,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/users/:id, DELETE} route"}
+{"level":30,"time":1651073640756,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/users/:id, PUT} route"}
+{"level":30,"time":1651073640756,"pid":208,"hostname":"af039fd5b831","msg":"AuthController {/}:"}
+{"level":30,"time":1651073640757,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/login, POST} route"}
+{"level":30,"time":1651073640757,"pid":208,"hostname":"af039fd5b831","msg":"BoardsController {/boards}:"}
+{"level":30,"time":1651073640758,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/boards, GET} route"}
+{"level":30,"time":1651073640760,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/boards/:id, GET} route"}
+{"level":30,"time":1651073640761,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/boards, POST} route"}
+{"level":30,"time":1651073640761,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/boards/:id, DELETE} route"}
+{"level":30,"time":1651073640762,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/boards/:id, PUT} route"}
+{"level":30,"time":1651073640762,"pid":208,"hostname":"af039fd5b831","msg":"ColumnsController {/columns}:"}
+{"level":30,"time":1651073640763,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/columns, GET} route"}
+{"level":30,"time":1651073640764,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/columns/:columnId, GET} route"}
+{"level":30,"time":1651073640764,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/columns, POST} route"}
+{"level":30,"time":1651073640765,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/columns/:columnId, DELETE} route"}
+{"level":30,"time":1651073640766,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/columns/:columnId, PUT} route"}
+{"level":30,"time":1651073640766,"pid":208,"hostname":"af039fd5b831","msg":"TasksController {/boards/:boardId/tasks}:"}
+{"level":30,"time":1651073640766,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/boards/:boardId/tasks, GET} route"}
+{"level":30,"time":1651073640768,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/boards/:boardId/tasks/:taskId, GET} route"}
+{"level":30,"time":1651073640769,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/boards/:boardId/tasks, POST} route"}
+{"level":30,"time":1651073640770,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/boards/:boardId/tasks/:taskId, DELETE} route"}
+{"level":30,"time":1651073640771,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/boards/:boardId/tasks/:taskId, PUT} route"}
+{"level":30,"time":1651073640771,"pid":208,"hostname":"af039fd5b831","msg":"FileController {/}:"}
+{"level":30,"time":1651073640772,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/file, POST} route"}
+{"level":30,"time":1651073640773,"pid":208,"hostname":"af039fd5b831","msg":"Mapped {/file/:filename, GET} route"}
+{"level":30,"time":1651073640777,"pid":208,"hostname":"af039fd5b831","msg":"Nest application successfully started"}
